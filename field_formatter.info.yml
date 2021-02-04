@@ -1,0 +1,5 @@
+name: "field_formatter"
+type: module
+description: "Allows to wrap field in html tag"
+core_version_requirement: 8.x || 9.x
+package: "Custom"
